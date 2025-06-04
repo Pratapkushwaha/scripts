@@ -1,5 +1,12 @@
 #!/bin/bash
 
+
+<<help
+backuo
+dh
+
+help
+
 <<info
 this shell script will take periodic backup
 
